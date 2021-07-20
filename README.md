@@ -485,5 +485,3 @@ cover everything. We just want to help you with the first steps.
 Eventually you'll find your way inside the Redis code base :-)
 
 Enjoy!
-# redis-resource
-# redis-resource
